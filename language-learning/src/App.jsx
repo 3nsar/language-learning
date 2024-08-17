@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className='container'>
       <div className='content'>
-          <button>PLAY</button>
+         
       </div>
     </div>
   )
